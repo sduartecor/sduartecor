@@ -42,18 +42,10 @@ Here are some ideas to get you started:
     <h2 align="left">Mejorando... 🔭</h2>
     <ul align="left">
       <li><strong>Inglés</strong></li>
+      <li><strong>Nuevas tecnologías</strong></li>
     </ul>
-    <h2 align="left">Donde comunicarme 💬</h2>
+    <h2 align="left">Contacto 💬</h2>
     <ul align="left">
-      <li><strong>alejandropacheco2497@gmail.com 💌</strong></li>
+      <li><strong>santiagoduartecor@outlook.com 💌</strong></li>
     </ul>
-    <div align="left">
-      <h2 align="left">Habilidades 🕹️</h2>
-      <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40" />
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JAVASCRIPT" alt="JAVASCRI" width="40" height="40" />
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="BOOTSTRAP" alt="BOT" width="40" height="40" />
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="PYTHON" alt="PY" width="40" height="40" />
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="REACT" alt="REACT" width="40" height="40" />
-      </div>
-    </div>
+   
