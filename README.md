@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
   <div align="center">
-    <h1>Bienvenido 🧉</h1>
+    <h1>Bienvenido a mi perfil 🧉</h1>
     <br>
-    <h3>Print("<i>Alejandro Pacheco</i> Desarrollador de Software Full Stack") 🐍</h3>
+    <h3><i>Full Stack Software Developer</i></h3>
   </div>
   <div align="left" class="start">
     <h4>Sobre mí:</h4>
