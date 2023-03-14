@@ -22,8 +22,7 @@ Here are some ideas to get you started:
     <h4>Sobre mí:</h4>
     <p>✔️ Proactivo y autodidacta</p>
     <p>💬 Buena comunicación y trabajo en equipo</p>
-    <p>👪👨‍👧‍👦 Amante de los trabajos en equipo</p>
-    <p>⚽ En mis tiempos libres hago deportes y </p>
+    <p>⚽ En mis tiempos libres hago deportes y disfruto con amigos</p>
     </div>
   <div align="left" class="center">
     <h2 align="left">Habilidades🌱</h2>
