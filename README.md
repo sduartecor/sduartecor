@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **sduartecor/sduartecor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,14 +14,13 @@ Here are some ideas to get you started:
 -->
 
   <div align="center">
-    <h1>Bienvenido a mi perfil⚡</h1>
+    <h1>Bienvenido 🧉</h1>
     <br>
-    <img id="img" src="https://media.giphy.com/media/Is1O1TWV0LEJi/giphy.gif" alt="">
     <h3>Print("<i>Alejandro Pacheco</i> Desarrollador de Software Full Stack") 🐍</h3>
   </div>
   <div align="left" class="start">
     <h4>Sobre mí:</h4>
-    <p>✔️ Enfocado en nuevos retos y proyectos</p>
+    <p>✔️ Proactivo</p>
     <p>🚀 Proactivo y con ganas de aprender cosas nuevas</p>
     <p>🌎 Me encanta conocer culturas y personas diferentes</p>
     <p>👪👨‍👧‍👦 Amante de los trabajos en equipo</p>
